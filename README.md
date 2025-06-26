@@ -32,21 +32,22 @@
   <h2 align="center">🛠️ Technologies I Use</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pandas,git,docker,aws,azure,gcp" />
-</p>
-
-<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,git,docker,aws,azure,gcp" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width="80px" title="Pandas"/>
   <!-- MySQL -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40px" title="MySQL"/>
-  
+
   <!-- Excel -->
   <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" width="40px" title="Excel"/>
 
-  <!-- Apache Airflow -->
+  <!-- Airflow -->
   <img src="https://raw.githubusercontent.com/apache/airflow/main/docs/apache-airflow/img/logos/airflow_logomark.png" width="40px" title="Airflow"/>
 
-  <!-- Tableau (via Wikipedia Commons) -->
+  <!-- Tableau -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" width="60px" title="Tableau"/>
+
+  <!-- Power BI -->
+  <img src="https://img.icons8.com/color/48/000000/power-bi.png" width="40px" title="Power BI"/>
 </p>
 
 <br/>
