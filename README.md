@@ -55,6 +55,19 @@
   ">
     AI-900
   </a>
+
+  
+<p>
+  <a href="https://www.credly.com/badges/ID-AZ900" target="_blank">
+    <img src="https://img.shields.io/badge/AZ--900-Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+  </a>
+  <a href="https://www.credly.com/badges/ID-DP900" target="_blank">
+    <img src="https://img.shields.io/badge/DP--900-Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+  </a>
+  <a href="https://www.credly.com/badges/ID-AI900" target="_blank">
+    <img src="https://img.shields.io/badge/AI--900-Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+  </a>
+</p>
 </p>
 <br/>
 <!-- Skills Section -->
