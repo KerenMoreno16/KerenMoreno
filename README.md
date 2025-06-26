@@ -13,7 +13,7 @@
 
 <!-- Certifications -->
 <h2 align="center">🎓 Certifications</h2>
-<p>
+<p  align="center">
   <a href="https://www.credly.com/badges/f8d23cac-187c-49c5-aa6c-10c68c4ac085?source=linked_in_profile" target="_blank">
     <img src="https://img.shields.io/badge/AZ--900-Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
   </a>
@@ -29,7 +29,7 @@
 <h2 align="center">🛠️ Technologies I Use</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,sql,pandas,numpy,git,docker,airflow,aws,excel,tableau,matplotlib,seaborn" width="600px"/>
+  <img src="https://skillicons.dev/icons?i=python,sql,pandas,git,docker,airflow,aws,excel,tableau" width="600px"/>
 </div>
 
 <br/>
