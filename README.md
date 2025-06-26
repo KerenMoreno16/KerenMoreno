@@ -28,10 +28,13 @@
 <!-- Skills Section -->
 <h2 align="center">🛠️ Technologies I Use</h2>
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,sql,pandas,git,docker,airflow,aws,excel,tableau" width="600px"/>
-</div>
-
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,git,docker,azure, gcp, aws,tableau" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40px" title="SQL"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width="80px" title="Pandas"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/ff/Microsoft_Excel_2013-2019_logo.svg" width="40px" title="Excel"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png" width="60px" title="Airflow"/>
+</p>
 <br/>
 
 <!-- Projects Section -->
