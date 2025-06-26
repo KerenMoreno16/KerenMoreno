@@ -16,7 +16,7 @@
 
 <div align="center">
   <!-- AZ-900 Badge -->
-  <img src="https://www.credly.com/badges/f8d23cac-187c-49c5-aa6c-10c68c4ac085?source=linked_in_profile" alt="AZ-900 badge"/>
+  [![Ver Certificação](https://img.shields.io/badge/Ver%20Certificação-Azul?style=for-the-badge&logo=github)](https://www.credly.com/badges/f8d23cac-187c-49c5-aa6c-10c68c4ac085?source=linked_in_profile)
 
   <!-- DP-900 Badge -->
   <img src="https://learn.microsoft.com/en-us/users/kerenmoreno-5158/credentials/a9d690d9f0b2a8fc?ref=https%3A%2F%2Fwww.linkedin.com%2F" alt="DP-900 badge"/>
