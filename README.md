@@ -29,12 +29,26 @@
 <h2 align="center">🛠️ Technologies I Use</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,git,docker,azure, gcp, aws,tableau" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40px" title="SQL"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width="80px" title="Pandas"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/ff/Microsoft_Excel_2013-2019_logo.svg" width="40px" title="Excel"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png" width="60px" title="Airflow"/>
+  <h2 align="center">🛠️ Technologies I Use</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pandas,git,docker,aws,azure,gcp" />
 </p>
+
+<p align="center">
+  <!-- MySQL -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40px" title="MySQL"/>
+  
+  <!-- Excel -->
+  <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" width="40px" title="Excel"/>
+
+  <!-- Apache Airflow -->
+  <img src="https://raw.githubusercontent.com/apache/airflow/main/docs/apache-airflow/img/logos/airflow_logomark.png" width="40px" title="Airflow"/>
+
+  <!-- Tableau (via Wikipedia Commons) -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" width="60px" title="Tableau"/>
+</p>
+
 <br/>
 
 <!-- Projects Section -->
