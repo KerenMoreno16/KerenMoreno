@@ -11,17 +11,22 @@
 
 <br/>
 
-<!-- Badges -->
+<!-- Certifications -->
+<h2 align="center">🎓 Certifications</h2>
+
 <div align="center">
-  <a href="https://learn.microsoft.com/en-us/users/kerenmoreno-5158/credentials/a9d690d9f0b2a8fc?ref=https%3A%2F%2Fwww.linkedin.com%2F"  target="_blank">
-    <img src="https://via.placeholder.com/700x150.png?text=Data+Engineer+%26+Analyst" alt="Microsoft Banner" />
-  </a>
-  <a href="mailto:kerenmoreno.sistemas@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=email" alt="Email badge"/>
-  </a>
+  <!-- AZ-900 Badge -->
+  <img src="https://www.credly.com/badges/f8d23cac-187c-49c5-aa6c-10c68c4ac085?source=linked_in_profile" alt="AZ-900 badge"/>
+
+  <!-- DP-900 Badge -->
+  <img src="https://learn.microsoft.com/en-us/users/kerenmoreno-5158/credentials/a9d690d9f0b2a8fc?ref=https%3A%2F%2Fwww.linkedin.com%2F" alt="DP-900 badge"/>
+</div>
+
+  <!-- AI-900 Badge -->
+  <img src="https://learn.microsoft.com/en-us/users/kerenmoreno-5158/credentials/754a633b777f6508?ref=https%3A%2F%2Fwww.linkedin.com%2F" alt="DP-900 badge"/>
+</div>
 
 <br/>
-
 <!-- Skills Section -->
 <h2 align="center">🛠️ Technologies I Use</h2>
 
