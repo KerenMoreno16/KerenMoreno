@@ -14,9 +14,7 @@
 <!-- Certifications -->
 <h2 align="center">🎓 Certifications</h2>
 
-<div align="center">
-  <!-- AZ-900 Badge -->
-  <a href="https://www.credly.com/badges/f8d23cac-187c-49c5-aa6c-10c68c4ac085?source=linked_in_profile" target="_blank">
+<a href="https://www.credly.com/badges/f8d23cac-187c-49c5-aa6c-10c68c4ac085?source=linked_in_profile" target="_blank">
   <button style="
     background-color:#2ea44f;
     border:1px solid rgba(27, 31, 35, .15);
