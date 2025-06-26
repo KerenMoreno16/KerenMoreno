@@ -14,7 +14,7 @@
 <!-- Certifications -->
 <h2 align="center">🎓 Certifications</h2>
 
-<a href="[https://www.credly.com/badges/SEU-BADGE-ID](https://www.credly.com/badges/f8d23cac-187c-49c5-aa6c-10c68c4ac085?source=linked_in_profile)" target="_blank" style="
+<a href="https://www.credly.com/badges/f8d23cac-187c-49c5-aa6c-10c68c4ac085?source=linked_in_profile" target="_blank" style="
   background-color:#0078D4;
   color:white;
   padding:10px 20px;
@@ -26,17 +26,32 @@
 ">
   Ver Certificação AZ-900
 </a>
-  [![Certificação DP-900](https://img.shields.io/badge/DP--900%20Certificado-Microsoft-0078D4?style=for-the-badge&logo=microsoft)](https://www.credly.com/badges/EXEMPLO-ID)
-()
 
-  <!-- DP-900 Badge -->
-  <img src="https://learn.microsoft.com/en-us/users/kerenmoreno-5158/credentials/a9d690d9f0b2a8fc?ref=https%3A%2F%2Fwww.linkedin.com%2F" alt="DP-900 badge"/>
-</div>
+<a href="https://learn.microsoft.com/en-us/users/kerenmoreno-5158/credentials/a9d690d9f0b2a8fc?ref=https%3A%2F%2Fwww.linkedin.com%2F" target="_blank" style="
+  background-color:#0078D4;
+  color:white;
+  padding:10px 20px;
+  border-radius:6px;
+  text-decoration:none;
+  font-weight:bold;
+  font-family:sans-serif;
+  display:inline-block;
+">
+  Ver Certificação DP-900
+</a>
 
-  <!-- AI-900 Badge -->
-  <img src="https://learn.microsoft.com/en-us/users/kerenmoreno-5158/credentials/754a633b777f6508?ref=https%3A%2F%2Fwww.linkedin.com%2F" alt="DP-900 badge"/>
-</div>
-
+<a href="https://learn.microsoft.com/en-us/users/kerenmoreno-5158/credentials/754a633b777f6508?ref=https%3A%2F%2Fwww.linkedin.com%2F" target="_blank" style="
+  background-color:#0078D4;
+  color:white;
+  padding:10px 20px;
+  border-radius:6px;
+  text-decoration:none;
+  font-weight:bold;
+  font-family:sans-serif;
+  display:inline-block;
+">
+  Ver Certificação AI-900
+</a>
 <br/>
 <!-- Skills Section -->
 <h2 align="center">🛠️ Technologies I Use</h2>
