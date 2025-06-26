@@ -14,60 +14,15 @@
 <!-- Certifications -->
 <h2 align="center">🎓 Certifications</h2>
 <p>
-  <a href="https://www.credly.com/badges/f8d23cac-187c-49c5-aa6c-10c68c4ac085?source=linked_in_profile" target="_blank" style="
-     background-color:#0078D4;
-     color:white;
-     padding:10px 16px;
-     border-radius:6px;
-     text-decoration:none;
-     font-weight:bold;
-     font-family:sans-serif;
-     display:inline-block;
-     margin-right:10px;
-  ">
-    AZ-900
-  </a>
-  
-  <a href="https://learn.microsoft.com/en-us/users/kerenmoreno-5158/credentials/a9d690d9f0b2a8fc?ref=https%3A%2F%2Fwww.linkedin.com%2F" target="_blank" style="
-    background-color:#0078D4;
-    color:white;
-    padding:10px 16px;
-    border-radius:6px;
-    text-decoration:none;
-    font-weight:bold;
-    font-family:sans-serif;
-    display:inline-block;
-    margin-right:10px;
-  ">
-    DP-900
-  </a>
-  
-  <a href="https://learn.microsoft.com/en-us/users/kerenmoreno-5158/credentials/754a633b777f6508?ref=https%3A%2F%2Fwww.linkedin.com%2F" target="_blank" style="
-    background-color:#0078D4;
-    color:white;
-    padding:10px 16px;
-    border-radius:6px;
-    text-decoration:none;
-    font-weight:bold;
-    font-family:sans-serif;
-    display:inline-block;
-    margin-right:10px;
-  ">
-    AI-900
-  </a>
-
-  
-<p>
-  <a href="https://www.credly.com/badges/ID-AZ900" target="_blank">
+  <a href="https://www.credly.com/badges/f8d23cac-187c-49c5-aa6c-10c68c4ac085?source=linked_in_profile" target="_blank">
     <img src="https://img.shields.io/badge/AZ--900-Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
   </a>
-  <a href="https://www.credly.com/badges/ID-DP900" target="_blank">
+  <a href="https://learn.microsoft.com/en-us/users/kerenmoreno-5158/credentials/a9d690d9f0b2a8fc?ref=https%3A%2F%2Fwww.linkedin.com%2F" target="_blank">
     <img src="https://img.shields.io/badge/DP--900-Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
   </a>
-  <a href="https://www.credly.com/badges/ID-AI900" target="_blank">
+  <a href="https://learn.microsoft.com/en-us/users/kerenmoreno-5158/credentials/754a633b777f6508?ref=https%3A%2F%2Fwww.linkedin.com%2F" target="_blank">
     <img src="https://img.shields.io/badge/AI--900-Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
   </a>
-</p>
 </p>
 <br/>
 <!-- Skills Section -->
