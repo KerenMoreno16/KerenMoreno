@@ -16,8 +16,26 @@
 
 <div align="center">
   <!-- AZ-900 Badge -->
+  <a href="https://www.credly.com/badges/f8d23cac-187c-49c5-aa6c-10c68c4ac085?source=linked_in_profile" target="_blank">
+  <button style="
+    background-color:#2ea44f;
+    border:1px solid rgba(27, 31, 35, .15);
+    border-radius:6px;
+    box-shadow:rgba(27, 31, 35, .1) 0 1px 0;
+    color:#fff;
+    cursor:pointer;
+    font-size:14px;
+    font-weight:600;
+    padding:6px 16px;
+    text-align:center;
+    text-decoration:none;
+    display:inline-block;
+  ">
+    AZ-900
+  </button>
+</a>
   [![Certificação DP-900](https://img.shields.io/badge/DP--900%20Certificado-Microsoft-0078D4?style=for-the-badge&logo=microsoft)](https://www.credly.com/badges/EXEMPLO-ID)
-(https://www.credly.com/badges/f8d23cac-187c-49c5-aa6c-10c68c4ac085?source=linked_in_profile)
+()
 
   <!-- DP-900 Badge -->
   <img src="https://learn.microsoft.com/en-us/users/kerenmoreno-5158/credentials/a9d690d9f0b2a8fc?ref=https%3A%2F%2Fwww.linkedin.com%2F" alt="DP-900 badge"/>
