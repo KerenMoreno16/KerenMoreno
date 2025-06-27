@@ -94,5 +94,5 @@
 
 <!-- Footer -->
 <div align="center">
-  <p><i>Thanks for visiting! Feel free to explore my work or reach out 😊</i></p>
+  <p><i>Thanks for visiting! Feel free to explore my work or reach out! 😊</i></p>
 </div>
